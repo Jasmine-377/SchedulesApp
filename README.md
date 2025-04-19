@@ -3,16 +3,21 @@
 ### Graphical Abstract
 
 - **Main interface**
-  ![Main Interface](https://github.com/user-attachments/7c8a2550-0148-43c9-8e28-4bd2e5fdcb8)
+  ![Main Interface]
+  ![屏幕截图 2025-04-19 183142](https://github.com/user-attachments/assets/10323c12-ef2d-4e2d-94cf-d8acd37e1115)
 
 - **Add a new schedule**
-  ![Add Schedule](https://github.com/user-attachments/587e2e0a-bb9f-444d7-8482-cc6d29017b92)
+  ![Add Schedule]
+  ![屏幕截图 2025-04-19 185231](https://github.com/user-attachments/assets/88db4eda-05db-4af1-a901-f0661691a167)
 
 - **Edit a schedule**
-  ![Edit Schedule](https://github.com/user-attachments/3faabbc6-e019-4965-b552-70ee6784aaa4)
+  ![Edit Schedule]
+  ![屏幕截图 2025-04-19 185047](https://github.com/user-attachments/assets/e7ee473e-8ee0-4899-9deb-8d3a9a42709e)
 
 - **Jump to the location map**
-  ![Location Map](https://github.com/user-attachments/b1d93a83-a559-4e08-a390-8b57114e15d8)
+  ![Location Map]
+  ![屏幕截图 2025-04-19 185120](https://github.com/user-attachments/assets/2d4ccf24-1160-4455-972c-888b12e930dd)
+
 
 ## Purpose of the Software
 
