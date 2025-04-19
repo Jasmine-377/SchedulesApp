@@ -1,122 +1,109 @@
 # Schedule Manager
-Schedule Manager
 
+### Graphical Abstract
 
-Graphical Abstract:
+- **Main interface**
+  ![Main Interface](https://github.com/user-attachments/7c8a2550-0148-43c9-8e28-4bd2e5fdcb8)
 
-·Main interface
-![屏幕截图 2025-04-19 183142](https://github.com/user-attachments/assets/7c8a2550-0148-43c9-8e28-4bd2e56fdcb8)
+- **Add a new schedule**
+  ![Add Schedule](https://github.com/user-attachments/587e2e0a-bb9f-444d7-8482-cc6d29017b92)
 
-·Add a new schedule
-![屏幕截图 2025-04-19 185231](https://github.com/user-attachments/assets/587e2e0a-bb9f-44d7-8482-cc6d29017b92)
+- **Edit a schedule**
+  ![Edit Schedule](https://github.com/user-attachments/3faabbc6-e019-4965-b552-70ee6784aaa4)
 
-·Edit a schedule
-![屏幕截图 2025-04-19 185047](https://github.com/user-attachments/assets/3faabbc6-e019-4965-b552-70ee6784aaa4)
+- **Jump to the location map**
+  ![Location Map](https://github.com/user-attachments/b1d93a83-a559-4e08-a390-8b57114e15d8)
 
-·Jump to the location map
-![屏幕截图 2025-04-19 185120](https://github.com/user-attachments/assets/b1d93a83-a559-4e08-a390-8b57114e15d8)
+## Purpose of the Software
 
-Purpose of the Software:
-Schedule Manager is a comprehensive scheduling and travel planning software suitable for individuals of all age groups in society. The software offers a user-friendly interface and a robust set of features to help users efficiently manage their daily schedules and travel plans with functions like adding new schedule and locating a schedule. 
+Schedule Manager is a comprehensive scheduling and travel planning software suitable for individuals of all age groups in society. The software offers a user-friendly interface and a robust set of features to help users efficiently manage their daily schedules and travel plans with functions like adding new schedule and locating a schedule.
 
-Software Development Model:
-This software project utilizes the Agile Development process. Since Schedule Manager is a time-to-market software, it requires rapid iteration and adaption to the market changes. Agile development method is suitable for it. With short iterations (Sprint), our team can quickly respond to users’ feedback, developing more functions and optimize user experience.
+## Software Development Model
 
+This software project utilizes the Agile Development process. Since Schedule Manager is a time-to-market software, it requires rapid iteration and adaptation to the market changes. Agile development method is suitable for it. With short iterations (Sprints), our team can quickly respond to users’ feedback, developing more functions and optimize user experience.
 
+### Market and Target Customers
 
-Market and Target Customers:
-1. Travel enthusiasts: Plan their itineraries and keep track of their travel plans. Schedule Manager enables users to meticulously plan their itineraries by researching destinations, attractions, accommodations, and transportation. 
-2. Business people: Manage business trips and meetings. This software enhances work efficiency and ensures smooth business operations.
-3. Students: Make study plans and activity schedules. This software helps students map out their learning schedules by allocating time for different subjects and study tasks, and setting deadlines for assignments and exams.
+1. **Travel enthusiasts**: Plan their itineraries and keep track of their travel plans. Schedule Manager enables users to meticulously plan their itineraries by researching destinations, attractions, accommodations, and transportation.
+2. **Business people**: Manage business trips and meetings. This software enhances work efficiency and ensures smooth business operations.
+3. **Students**: Make study plans and activity schedules. This software helps students map out their learning schedules by allocating time for different subjects and study tasks, and setting deadlines for assignments and exams.
 
+## Software Development Plan
 
+### Development Process
 
+1. **Requirement Analysis**: During this phase, our team and stakeholders will work closely together to identify and define the essential functions of the software and the specific needs of the target users. This involves conducting thorough market research and user surveys to understand the pain points and expectations from the potential customers.
 
-Software Development Plan
-Development Process
-1.Requirement Analysis：During this phase, our team and stakeholders will work closely together to identify and define the essential functions of the software and the specific needs of the target users. This involves conducting thorough market research and user surveys to understand the pain points and expectations from the potential customerd.
+2. **Design**: This phase includes the design of the software architecture and the user interface. In terms of software architecture, our team will need to plan the general structure of the software and select appropriate technologies and frameworks to ensure the users' experience.
 
-2.Design: This phase includes the design of the software architecture and the user interface. In terms of software architecture, our team will need to plan the general structure of the software and select appropriate technologies and frameworks to ensure the users' experience.
+3. **Development**: Our team proceeds to the coding phase to implement the features of Schedule Manager A. During development, programmers write code based on the software architecture and design specifications, using appropriate programming languages and development tools. They break down the software into multiple functional modules, such as the schedule management module, travel planning module, and user settings module, and assign different developers or development teams to work on each module.
 
-3.Development: Our team proceeds to the coding phase to implement the features of Schedule Manager A. During development, programmers write code based on the software architecture and design specifications, using appropriate programming languages and development tools. They break down the software into multiple functional modules, such as the schedule management module, travel planning module, and user settings module, and assign different developers or development teams to work on each module. 
+4. **Testing**: Our team developers will test individual code units and modules to ensure they function correctly. For instance, we will test whether adding, deleting and querying schedules work properly and whether the adjusted schedule order and added schedule locations are accurate.
 
-4.Testing: Our team developers will test individual code units and modules to ensure they function correctly. For instance, we will test whether adding, deleting and querying schedules work properly and whether the adjusted schedule order and added schedule locations are accurate.
+5. **Releasing**: During this phase, our team will generate an APK file for the software and publish it to GitHub. Therefore, Users can download the APK file from GitHub and install Schedule Manager on their Android devices.
 
-5.Releasing: During this phase, our team will generate an APK file for the software and publish it to GitHub. Therefore, Users can download the APK file from GitHub and install Schedule Manager A on their Android devices.
+6. **Maintenance**: Update the software to meet the market's requirements and users' feedbacks.
 
-6.Maintenance: Update the software to meet the market's requirements and users' feedbacks.
+### Team Members:
 
+1. **Amy**: Requirement Analysis and Design; Maintenance and Updating
+2. **Sylvia**: Adding, deleting and ordering the schedule; Maintenance and Updating
+3. **Jasmine**: Showing the location of the schedule on the map
+4. **Miku**: Showing the location of the schedule on the map
+5. **Zhang Hanyuan**: Testing and Optimizing; Beta Release
 
+## Development Planning:
 
-Team Members:
-1. Amy: Requirement Analysis and Design; Maintenance and Updating
-2. Sylvia: Adding, deleting and ordering the schedule; Maintenance and Updating
-3. Jasmine: Showing the location of the schedule on the map
-4. Miku: Showing the location of the schedule on the map
-5. Zhang Hanyuan:Testing and Optimizing; Beta Release
-![image](https://github.com/user-attachments/assets/3970b0ec-302f-4265-967a-ad1fecb47603)
+- **Requirement Analysis and Design**: 3 days
 
+- **Development Stage**:
+  - Adding, deleting and ordering the schedule: 1 week
+  - Showing the location of the schedule on the map: 2 weeks
 
+- **Testing and Optimizing**: 1 week
 
+- **Beta Release**: 3 days
 
-Development Planning:
+- **Maintenance and Updating**: Ongoing after software launching
 
-• Requirement Analysis and Design：3 days
+## Travel Planner Core Algorithms:
 
-• Development Stage:
-    Adding, deleting and ordering the schedule:  1 week
-     
-Showing the location of the schedule on the map:  2 weeks
+1. **Schedule**: Use ‘ItemTouchHelper’ to drag and order the schedules. Enhance the clarity of the schedule, making the software more user-friendly.
 
-• Testing and Optimizing: 1week
+2. **Positioning Algorithms**: Use Google Maps API to locate the schedule and show it through the map.
 
-• Beta Release: 3 days
+3. **Database Management**: Use SQLite as the database management system (DBMS) to store and manage the data of the schedules. SQLite holds its advantage since it is self-contained which means the configuration and installation of it.
 
-• Maintenance and Updating: Ongoing after software launching 
-![image](https://github.com/user-attachments/assets/5d9af846-b240-460d-9c25-169d1552364d)
-![image](https://github.com/user-attachments/assets/bb2035dc-d957-4114-aaad-614b26e4cbdf)
+## Current Status of Travel Planner
 
-
-
-
-Travel Planner Core Algorithms：
-
-1. Schedule ：Use ‘ItemTouchHelper’ to drag and order the schedules. Enhance the clarity of the schedule, making the software more user friendly.
-
-2.Positioning Algorithms: Use Google Maps API to locate the schedule and show it through the map.
-
-3.Database Management：Use SQLite as the database management system (DBMS) to store and manage the data of the schedules. SQLite holds its advantage since it is self-contained which means the configuration and installation of it.
-
-
-Current Status of Travel Planner
 1. Adding, deleting and ordering the schedule
-2. Local storage of the data 
+2. Local storage of the data
 3. Showing the location of the schedule on the map
 4. Countdown timer function
 
-Future Plan of Travel Planner
+## Future Plan of Travel Planner
+
 1. Developing schedule reminder
 2. Cloud storage of the data
 3. Adding multi-language switching
 4. Optimizing user interface (UI)
 
+## Environments of the Software Development and Running
 
-Environments of the Software Development and Running
+### Programming Language
 
-Programming Language
+- Python
 
-• Python
+### Required Packages
 
+1. tkinter；
+2. json；
+3. webbrowser；
+4. geopy；
 
+## Declaration
 
-Required Packages
-1.tkinter；
-2.json；
-3.webbrowser；
-4.geopy;
-
-Declaration
-The following open source libraries and tools were used in this project：
+The following open source libraries and tools were used in this project:
 Open Source Packages
 tkinter: Used to create the user interface of the Schedule Manager application.
 json: Used in the code to save and load schedule data to and from files.
@@ -128,4 +115,4 @@ tkinter.ttk: Used in the code to create controls such as buttons (ttk.Button) an
 tkinter.messagebox: Used in the code to display error messages, such as errors in the time format or inability to display the geographic location.
 tkinter.Listbox: Used in the code to display a list of schedules.
 tkinter.Frame: Used in the code to create button frames and map display frames.
-geopy.geocoders.Nominatim: Used in the code to obtain the latitude and longitude of the place according to the name of the place in the schedule.
+geopy.geocoders.Nominatim: Used in the code to obtain the latitude and longitude of the place according to the name of the place in the schedule for display on OpenStreetMap.
