@@ -3,13 +3,17 @@ Schedule Manager
 
 
 Graphical Abstract:
-Main interface
+
+·Main interface
 ![屏幕截图 2025-04-19 183142](https://github.com/user-attachments/assets/7c8a2550-0148-43c9-8e28-4bd2e56fdcb8)
-Add a new schedule
+
+·Add a new schedule
 ![屏幕截图 2025-04-19 185231](https://github.com/user-attachments/assets/587e2e0a-bb9f-44d7-8482-cc6d29017b92)
-Edit a schedule
+
+·Edit a schedule
 ![屏幕截图 2025-04-19 185047](https://github.com/user-attachments/assets/3faabbc6-e019-4965-b552-70ee6784aaa4)
-Jump to the location map
+
+·Jump to the location map
 ![屏幕截图 2025-04-19 185120](https://github.com/user-attachments/assets/b1d93a83-a559-4e08-a390-8b57114e15d8)
 
 Purpose of the Software:
