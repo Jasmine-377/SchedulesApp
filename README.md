@@ -3,7 +3,6 @@ Schedule Manager
 
 
 Graphical Abstract:
-![image](https://github.com/user-attachments/assets/ecfbfcf5-3a7f-4682-b1ac-98ddf2acbb6e)
 ![75dce8e35880c5d0486bd89420a9a7f](https://github.com/user-attachments/assets/82ec14af-c066-46ab-bb4a-4149b255339f)
 
 
