@@ -1,64 +1,61 @@
-# SchedulesApp
-TravelPlanner-日程管理与旅行规划软件
+# Schedule Manager
+Schedule Manager
 
 
 Graphical Abstract:
-项目主界面截图，展示日程列表和添加按钮。
+
 
 
 Purpose of the Software:
+Schedule Manager is a comprehensive scheduling and travel planning software suitable for individuals of all age groups in society. The software offers a user-friendly interface and a robust set of features to help users efficiently manage their daily schedules and travel plans with functions like adding new schedule and locating a schedule. 
+
+Software Development Model:
+This software project utilizes the Agile Development process. Since Schedule Manager is a time-to-market software, it requires rapid iteration and adaption to the market changes. Agile development method is suitable for it. With short iterations (Sprint), our team can quickly respond to users’ feedback, developing more functions and optimize user experience.
 
 
-Software Development Process
-本项目采用敏捷开发（Agile Development）流程。敏捷开发强调快速迭代和适应变化，适合需求可能频繁变动的项目。通过短周期的迭代（Sprint），团队能够快速响应用户反馈，及时调整功能和优化用户体验。
+
+Market and Target Customers:
+1. Travel enthusiasts: Plan their itineraries and keep track of their travel plans. Schedule Manager enables users to meticulously plan their itineraries by researching destinations, attractions, accommodations, and transportation. 
+2. Business people: Manage business trips and meetings. This software enhances work efficiency and ensures smooth business operations.
+3. Students: Make study plans and activity schedules. This software helps students map out their learning schedules by allocating time for different subjects and study tasks, and setting deadlines for assignments and exams.
 
 
-Why Agile?
-选择敏捷开发的原因如下：
-
-• 快速迭代：能够快速交付可用的软件版本，及时收集用户反馈。
-
-• 适应变化：项目需求可能随着开发过程而变化，敏捷开发能够灵活应对。
-
-• 团队协作：促进团队成员之间的紧密合作，提高开发效率。
-
-
-Possible Usage of the Software
-TravelPlanner是一款面向旅行者的日程管理与旅行规划软件。其目标市场包括：
-
-• 旅行爱好者：帮助他们规划行程、记录旅行计划。
-
-• 商务人士：方便他们管理出差日程和会议安排。
-
-• 学生：用于规划学习和活动日程。
 
 
 Software Development Plan
-
 Development Process
+1.Requirement Analysis：During this phase, our team and stakeholders will work closely together to identify and define the essential functions of the software and the specific needs of the target users. This involves conducting thorough market research and user surveys to understand the pain points and expectations from the potential customerd.
 
-• 需求分析：确定软件功能和用户需求。
+2.Design: This phase includes the design of the software architecture and the user interface. In terms of software architecture, our team will need to plan the general structure of the software and select appropriate technologies and frameworks to ensure the users' experience.
 
-• 设计：设计软件架构和用户界面。
+3.Development: Our team proceeds to the coding phase to implement the features of Schedule Manager A. During development, programmers write code based on the software architecture and design specifications, using appropriate programming languages and development tools. They break down the software into multiple functional modules, such as the schedule management module, travel planning module, and user settings module, and assign different developers or development teams to work on each module. 
 
-• 开发：编写代码实现功能。
+4.Testing: Our team developers will test individual code units and modules to ensure they function correctly. For instance, we will test whether adding, deleting and querying schedules work properly and whether the adjusted schedule order and added schedule locations are accurate.
 
-• 测试：进行单元测试和集成测试。
+5.Releasing: During this phase, our team will generate an APK file for the software and publish it to GitHub. Therefore, Users can download the APK file from GitHub and install Schedule Manager A on their Android devices.
 
-• 部署：生成APK文件并发布到GitHub。
-
-• 维护：根据用户反馈进行优化和更新。Maintenance and Updating: Update the software according to the users' feedback and 
+6.Maintenance: Update the software to meet the market's requirements and users' feedbacks.
 
 
-Members(Roles&Responsibilities&Portion):
-5 Members, 3 Full-time Developer, 1 Product Manager, 1(Scrum) Master
+
+Team Members:
+Amy: Requirement Analysis and Design; Maintenance and Updating:
+Sylvia: Adding, deleting and ordering the schedule; Maintenance and Updating:
+Jasmine: Showing the location of the schedule on the map
+Miku: Showing the location of the schedule on the map
+Zhang Hanyuan:Testing and Optimizing; Beta Release
+
+
 
 
 Development Planning:
 
-• Requirement Analysis and Design：1 week 
+• Requirement Analysis and Design：3 days
 
-• Development Stage: 3 weeks
+• Development Stage:
+    Adding, deleting and ordering the schedule:  1 week
+     
+Showing the location of the schedule on the map:  2 weeks
 
 • Testing and Optimizing: 1week
 
@@ -67,19 +64,22 @@ Development Planning:
 • Maintenance and Updating: Ongoing after software launching 
 
 
-Travel Planner Core Algorithms include：
+
+
+Travel Planner Core Algorithms：
 
 1. Schedule ：Use ‘ItemTouchHelper’ to drag and order the schedules. Enhance the clarity of the schedule, making the software more user friendly.
 
 2.Positioning Algorithms: Use Google Maps API to locate the schedule and show it through the map.
 
-3.Database Management：Use SQLite as the database management system (DBMS) to store and manage the data of the schedules. SQLite holds its advantage since it is self-contained which means the configuration and installation of SQLite is relatively easy. Therefore, the easy of use it  
+3.Database Management：Use SQLite as the database management system (DBMS) to store and manage the data of the schedules. SQLite holds its advantage since it is self-contained which means the configuration and installation of it.
 
 
 Current Status of Travel Planner
 1. Adding, deleting and ordering the schedule
 2. Local storage of the data 
 3. Showing the location of the schedule on the map
+4. Countdown timer function
 
 Future Plan of Travel Planner
 1. Developing schedule reminder
@@ -87,48 +87,32 @@ Future Plan of Travel Planner
 3. Adding multi-language switching
 4. Optimizing user interface (UI)
 
-Demo
-[YouTube Demo Video]()
-点击链接查看TravelPlanner的演示视频。
-
 
 Environments of the Software Development and Running
 
 Programming Language
 
-• Java
+• Python
 
-
-Minimum H/W Requirements
-
-• 处理器：1.2 GHz
-
-• 内存：2 GB RAM
-
-• 存储：500 MB可用空间
-
-
-Minimum S/W Requirements
-
-• 操作系统：Android 5.0（API level 21）及以上
-
-• 开发工具：Android Studio 4.0及以上
 
 
 Required Packages
-
-• AndroidX：用于支持最新的Android功能。
-
-• Google Play Services：用于地图功能。
-
-• Gradle：用于项目构建和依赖管理。
-
+tkinter；
+json；
+webbrowser；
+geopy
 
 Declaration
-本项目中使用了以下开源库和工具：
-
-• AndroidX：用于构建和运行应用。
-
-• Google Maps API：用于地图显示和定位功能。
-
-• SQLite：用于本地数据存储。
+The following open source libraries and tools were used in this project：
+Open Source Packages
+tkinter: Used to create the user interface of the Schedule Manager application.
+json: Used in the code to save and load schedule data to and from files.
+webbrowser: Used in the code to open the OpenStreetMap website and display the geographic location of the schedule.
+geopy: Use geopy's Nominatim geocoder in the code to get the latitude and longitude of the place name in the schedule for display on OpenStreetMap.
+Components
+tkinter.Tk: In the code, the MainApplication class inherits from tkinter.Tk and is used to create the main window of the application.
+tkinter.ttk: Used in the code to create controls such as buttons (ttk.Button) and input boxes (ttk.Entry).
+tkinter.messagebox: Used in the code to display error messages, such as errors in the time format or inability to display the geographic location.
+tkinter.Listbox: Used in the code to display a list of schedules.
+tkinter.Frame: Used in the code to create button frames and map display frames.
+geopy.geocoders.Nominatim: Used in the code to obtain the latitude and longitude of the place according to the name of the place in the schedule.
