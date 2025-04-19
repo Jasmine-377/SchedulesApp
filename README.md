@@ -3,19 +3,19 @@
 ### Graphical Abstract
 
 - **Main interface**
-  ![Main Interface]
+  [Main Interface]
   ![屏幕截图 2025-04-19 183142](https://github.com/user-attachments/assets/10323c12-ef2d-4e2d-94cf-d8acd37e1115)
 
 - **Add a new schedule**
-  ![Add Schedule]
+  [Add Schedule]
   ![屏幕截图 2025-04-19 185231](https://github.com/user-attachments/assets/88db4eda-05db-4af1-a901-f0661691a167)
 
 - **Edit a schedule**
-  ![Edit Schedule]
+  [Edit Schedule]
   ![屏幕截图 2025-04-19 185047](https://github.com/user-attachments/assets/e7ee473e-8ee0-4899-9deb-8d3a9a42709e)
 
 - **Jump to the location map**
-  ![Location Map]
+  [Location Map]
   ![屏幕截图 2025-04-19 185120](https://github.com/user-attachments/assets/2d4ccf24-1160-4455-972c-888b12e930dd)
 
 
@@ -71,6 +71,11 @@ This software project utilizes the Agile Development process. Since Schedule Man
 
 - **Maintenance and Updating**: Ongoing after software launching
 
+**Timeline**：
+
+![7c86f1692cd3f5b4eb95ebc4f5c50de](https://github.com/user-attachments/assets/e0978152-295a-4a64-acf0-8f964311fee6)
+![6a160e4325597da111d401d9f3e29dd](https://github.com/user-attachments/assets/eb13f3c5-e211-4fed-bdb5-c407e244f0cc)
+
 ## Travel Planner Core Algorithms:
 
 1. **Schedule**: Use ‘ItemTouchHelper’ to drag and order the schedules. Enhance the clarity of the schedule, making the software more user-friendly.
@@ -109,15 +114,17 @@ This software project utilizes the Agile Development process. Since Schedule Man
 ## Declaration
 
 The following open source libraries and tools were used in this project:
-Open Source Packages
-tkinter: Used to create the user interface of the Schedule Manager application.
-json: Used in the code to save and load schedule data to and from files.
-webbrowser: Used in the code to open the OpenStreetMap website and display the geographic location of the schedule.
-geopy: Use geopy's Nominatim geocoder in the code to get the latitude and longitude of the place name in the schedule for display on OpenStreetMap.
-Components
-tkinter.Tk: In the code, the MainApplication class inherits from tkinter.Tk and is used to create the main window of the application.
-tkinter.ttk: Used in the code to create controls such as buttons (ttk.Button) and input boxes (ttk.Entry).
-tkinter.messagebox: Used in the code to display error messages, such as errors in the time format or inability to display the geographic location.
-tkinter.Listbox: Used in the code to display a list of schedules.
-tkinter.Frame: Used in the code to create button frames and map display frames.
-geopy.geocoders.Nominatim: Used in the code to obtain the latitude and longitude of the place according to the name of the place in the schedule for display on OpenStreetMap.
+
+## Open Source Packages
+·tkinter: Used to create the user interface of the Schedule Manager application.
+·json: Used in the code to save and load schedule data to and from files.
+·webbrowser: Used in the code to open the OpenStreetMap website and display the geographic location of the schedule.
+·geopy: Use geopy's Nominatim geocoder in the code to get the latitude and longitude of the place name in the schedule for display on OpenStreetMap.
+
+## Components
+·tkinter.Tk: In the code, the MainApplication class inherits from tkinter.Tk and is used to create the main window of the application.
+·tkinter.ttk: Used in the code to create controls such as buttons (ttk.Button) and input boxes (ttk.Entry).
+·tkinter.messagebox: Used in the code to display error messages, such as errors in the time format or inability to display the geographic location.
+·tkinter.Listbox: Used in the code to display a list of schedules.
+·tkinter.Frame: Used in the code to create button frames and map display frames.
+·geopy.geocoders.Nominatim: Used in the code to obtain the latitude and longitude of the place according to the name of the place in the schedule for display on OpenStreetMap.
