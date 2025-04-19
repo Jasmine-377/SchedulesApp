@@ -116,15 +116,15 @@ This software project utilizes the Agile Development process. Since Schedule Man
 The following open source libraries and tools were used in this project:
 
 ## Open Source Packages
-·tkinter: Used to create the user interface of the Schedule Manager application.
-·json: Used in the code to save and load schedule data to and from files.
-·webbrowser: Used in the code to open the OpenStreetMap website and display the geographic location of the schedule.
-·geopy: Use geopy's Nominatim geocoder in the code to get the latitude and longitude of the place name in the schedule for display on OpenStreetMap.
+·tkinter: Used to create the user interface of the Schedule Manager application；
+·json: Used in the code to save and load schedule data to and from files；
+·webbrowser: Used in the code to open the OpenStreetMap website and display the geographic location of the schedule；
+·geopy: Use geopy's Nominatim geocoder in the code to get the latitude and longitude of the place name in the schedule for display on OpenStreetMap；
 
 ## Components
-·tkinter.Tk: In the code, the MainApplication class inherits from tkinter.Tk and is used to create the main window of the application.
-·tkinter.ttk: Used in the code to create controls such as buttons (ttk.Button) and input boxes (ttk.Entry).
-·tkinter.messagebox: Used in the code to display error messages, such as errors in the time format or inability to display the geographic location.
-·tkinter.Listbox: Used in the code to display a list of schedules.
-·tkinter.Frame: Used in the code to create button frames and map display frames.
+·tkinter.Tk: In the code, the MainApplication class inherits from tkinter.Tk and is used to create the main window of the application；
+·tkinter.ttk: Used in the code to create controls such as buttons (ttk.Button) and input boxes (ttk.Entry)；
+·tkinter.messagebox: Used in the code to display error messages, such as errors in the time format or inability to display the geographic location；
+·tkinter.Listbox: Used in the code to display a list of schedules；
+·tkinter.Frame: Used in the code to create button frames and map display frames；
 ·geopy.geocoders.Nominatim: Used in the code to obtain the latitude and longitude of the place according to the name of the place in the schedule for display on OpenStreetMap.
