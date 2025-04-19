@@ -40,11 +40,11 @@ Development Process
 
 
 Team Members:
-Amy: Requirement Analysis and Design; Maintenance and Updating:
-Sylvia: Adding, deleting and ordering the schedule; Maintenance and Updating:
-Jasmine: Showing the location of the schedule on the map
-Miku: Showing the location of the schedule on the map
-Zhang Hanyuan:Testing and Optimizing; Beta Release
+Amy: Requirement Analysis and Design; Maintenance and Updating
+    Sylvia: Adding, deleting and ordering the schedule; Maintenance and Updating
+    Jasmine: Showing the location of the schedule on the map
+    Miku: Showing the location of the schedule on the map
+    Zhang Hanyuan:Testing and Optimizing; Beta Release
 ![image](https://github.com/user-attachments/assets/3970b0ec-302f-4265-967a-ad1fecb47603)
 
 
