@@ -45,6 +45,7 @@ Sylvia: Adding, deleting and ordering the schedule; Maintenance and Updating:
 Jasmine: Showing the location of the schedule on the map
 Miku: Showing the location of the schedule on the map
 Zhang Hanyuan:Testing and Optimizing; Beta Release
+![image](https://github.com/user-attachments/assets/3970b0ec-302f-4265-967a-ad1fecb47603)
 
 
 
@@ -63,6 +64,8 @@ Showing the location of the schedule on the map:  2 weeks
 • Beta Release: 3 days
 
 • Maintenance and Updating: Ongoing after software launching 
+![image](https://github.com/user-attachments/assets/5d9af846-b240-460d-9c25-169d1552364d)
+![image](https://github.com/user-attachments/assets/bb2035dc-d957-4114-aaad-614b26e4cbdf)
 
 
 
